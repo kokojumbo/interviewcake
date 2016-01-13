@@ -1,7 +1,7 @@
 /**
  * Created by kmg on 2015-12-16.
  */
-public class FindDuplicate {
+public class FindDuplicate40 {
 
 
     //tablica wejsciowa zawiera wskazniki na pozycje innych elementów w tablicy tworzac linkedlist
